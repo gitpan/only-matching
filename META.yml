@@ -1,0 +1,15 @@
+abstract: Check that two Perl files are version-locked
+author: Adam Kennedy <adamk@cpan.org>
+build_requires: 
+  Test::More: 0.47
+distribution_type: module
+generated_by: Module::Install version 0.64
+license: perl
+name: only-matching
+no_index: 
+  directory: 
+    - inc
+    - t
+requires: 
+  perl: 5.005
+version: 0.01
